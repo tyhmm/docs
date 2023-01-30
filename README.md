@@ -1,2 +1,0 @@
-# docs
-Terms And Policy 
